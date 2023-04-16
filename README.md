@@ -1,6 +1,6 @@
 # Funny2
 ---
-Util for keixie IO system
+Util for kexie IO system
 
 ## Usage
 ---

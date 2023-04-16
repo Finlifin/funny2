@@ -1,9 +1,9 @@
 # Funny2
----
+
 Util for kexie IO system
 
 ## Usage
----
+
 >Sorry for Windows users, here's standard POSIX oriented target only.Though, you can just simply fix the for your own usage.
 
 To use this util, you can follow several step:
